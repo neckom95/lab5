@@ -203,3 +203,5 @@ If you want to increase the timeout value, goto Windows-> Preferences -> Xilinx 
 12:08:02.622 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
 12:08:29.047 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
 12:08:50.232 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+12:09:07.376 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+12:18:21.327 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
